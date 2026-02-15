@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Jenny 
 
-<!--
-**jenny-sau/jenny-sau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend developer from Switzerland**, self-taught and practice-driven.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build REST APIs with Python and FastAPI. My recent project is a café 
+management game backend with authentication, database transactions, and 
+automated tests.
+
+### Stack
+Python • FastAPI • PostgreSQL • SQLAlchemy • Docker • Pytest
+
+### Currently
+Looking for  backend developer opportunities where I can contribute and keep learning.
+
+### Get in touch
+- Email: jenny.saucy@outlook.com
+- Portfolio: www.jenny-dev.com
+
+
