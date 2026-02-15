@@ -1,4 +1,4 @@
-## Hi, I'm Jenny 
+## Hi, I'm Jenny :)
 
 **Backend developer from Switzerland**, self-taught and practice-driven.
 
