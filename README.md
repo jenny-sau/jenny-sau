@@ -13,7 +13,7 @@ Python • FastAPI • PostgreSQL • SQLAlchemy • Docker • Pytest
 ### Currently
 Looking for  backend developer opportunities where I can contribute and keep learning.
 
-### Get in touch
+### Get in touch 
 - Email: jenny.saucy@outlook.com
 - Portfolio: www.jenny-dev.com
 
