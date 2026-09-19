@@ -1,6 +1,6 @@
 ## Hi, I'm Jenny :)
 
-** Self-taught developer from Switzerland, practice-driven and curious..
+Self-taught developer from Switzerland, practice-driven and curious..
 
 
 I'm building projects to deepen my skills in Python, FastAPI, JavaScript, and web development.
