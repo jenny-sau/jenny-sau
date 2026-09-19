@@ -1,17 +1,17 @@
 ## Hi, I'm Jenny :)
 
-**Backend developer from Switzerland**, self-taught and practice-driven.
+**Self-taught developer from Switzerland, practice-driven and curious..
 
 
-I build REST APIs with Python and FastAPI. My recent project is a café 
-management game backend with authentication, database transactions, and 
-automated tests.
+I'm building projects to deepen my skills in Python, FastAPI, JavaScript, and web development.
+
+My main project is a café management game, where I'm learning to connect a REST API with a frontend, work with authentication and databases, and build features from end to end.
 
 ### Stack
-Python • FastAPI • PostgreSQL • SQLAlchemy • Docker • Pytest
+Python • FastAPI • PostgreSQL • SQLAlchemy • JavaScript • HTML/CSS • Docker • Pytest
 
 ### Currently
-Looking for  backend developer opportunities where I can contribute and keep learning.
+Learning, building, and looking for opportunities to grow as a developer.
 
 ### Get in touch 
 - Email: jenny.saucy@outlook.com
