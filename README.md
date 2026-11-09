@@ -8,7 +8,7 @@ My main project is a café management game that I built from the backend up. I d
 Python • FastAPI • PostgreSQL • SQLAlchemy • JavaScript • HTML/CSS • Docker • Pytest
 
 ### Currently
-Learning, building, and looking for opportunities to grow as a developer.
+Learning, building, and looking for opportunities to grow.
 
 ### Get in touch 
 - Email: jenny.saucy@outlook.com
